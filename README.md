@@ -1,3 +1,7 @@
+## Screenshot
+
+![Screenshot](assets/screenshot.png)
+
 # Fake Post Generator
 
 A WordPress plugin to generate fake posts with Japanese or English text. This plugin is ideal for developers and site administrators who need sample content for testing, demos, or as placeholders.
