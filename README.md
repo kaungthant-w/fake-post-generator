@@ -1,6 +1,6 @@
 ## Screenshot
 
-![Screenshot](assets/screenshot.png)
+![Screenshot](screenshot.png)
 
 # Fake Post Generator
 
